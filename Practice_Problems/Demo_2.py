@@ -6,7 +6,7 @@ window = turtle.Screen()
 window.title("Simple Cookies Clicker")
 window.bgcolor("black")
 
-COOKIE_IMG_PATH = "/Users/architchoudhary/Documents/GitHub/Python-Practice/Demo/images/cookie.gif"
+COOKIE_IMG_PATH = "/Users/architchoudhary/Documents/GitHub/Python-Practice/Practice_Problems/images/cookie.gif"
 
 window.register_shape(COOKIE_IMG_PATH)
 
