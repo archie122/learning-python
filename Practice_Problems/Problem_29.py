@@ -4,4 +4,4 @@ def eliminate_unset_bits(number):
     return int(number.replace('0', ''), 2)
 
 
-print(eliminate_unset_bits("00000000000000000000000000001011"))
+print(eliminate_unset_bits('1100')
