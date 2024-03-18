@@ -1,4 +1,9 @@
-def steps(n):
-    
+list = [1,2,3,4]
 
-steps(12)
+print(list)
+
+def reverse_list(list):
+    list.reverse()
+    return list
+
+print(reverse_list(list))
